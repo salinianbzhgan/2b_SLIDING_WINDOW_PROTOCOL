@@ -40,8 +40,11 @@ while True:
 ``` 
 ## OUPUT
 client
+
 ![Screenshot 2024-02-27 044403](https://github.com/salinianbzhgan/2b_SLIDING_WINDOW_PROTOCOL/assets/145742862/b019394b-9b34-45ea-a2c8-7e4cb95df162)
+
 server
+
 ![Screenshot 2024-02-27 044411](https://github.com/salinianbzhgan/2b_SLIDING_WINDOW_PROTOCOL/assets/145742862/5d8c39ba-a238-4eb5-b385-d67cb1f52a83)
 
 ## RESULT
